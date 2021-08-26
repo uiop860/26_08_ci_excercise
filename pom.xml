@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ci-demo1</groupId>
-    <artifactId>ci-demo1</artifactId>
+    <artifactId>26_08_Ci_excercise</artifactId>
     <version>1.0.1</version>
     <packaging>war</packaging>
 
-    <name>ci-demo1</name>
+    <name>26_08_Ci_excercise</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>

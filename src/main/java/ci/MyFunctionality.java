@@ -6,7 +6,9 @@ public class MyFunctionality {
     }
     
     public int getTen(){
-        return 10;
+        int number = 20;
+        number = number - 10;
+        return number;
     }
   }
 
