@@ -8,6 +8,7 @@ public class MyFunctionality {
     public int getTen(){
         int number = 20;
         number = number - 10;
+        number = 10;
         return number;
     }
   }
